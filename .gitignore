@@ -1,0 +1,10 @@
+.vscode
+_autosave*
+
+c47r-backups/
+
+*.lck
+
+production/
+*.log
+~*.SLDPRT
