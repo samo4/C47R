@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "c47r.kicad_pro",
+    "filename": "mainboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -739,8 +739,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "c47r.kicad_sch",
-        "name": "c47r",
+        "filename": "mainboard.kicad_sch",
+        "name": "mainboard",
         "uuid": "9e45a776-7007-48ff-b543-dc98423173b7"
       }
     ],
@@ -750,11 +750,7 @@
   "sheets": [
     [
       "9e45a776-7007-48ff-b543-dc98423173b7",
-      "c47r"
-    ],
-    [
-      "e5500f68-64db-4c66-b993-438e2e53a3d6",
-      "Matrix"
+      "mainboard"
     ],
     [
       "81abb8a2-69f3-48b3-aecc-9d3f4fd092b1",

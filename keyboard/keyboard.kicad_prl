@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 25,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -51,7 +51,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff7_fff7fdff",
+    "visible_layers": "ffffffff_ffffffff_fffffff7_fff7f5ff",
     "zone_display_mode": 0
   },
   "git": {
@@ -61,13 +61,11 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "c47r.kicad_prl",
+    "filename": "keyboard.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
-      false,
-      false,
       false,
       false,
       false,
@@ -89,9 +87,7 @@
       6,
       7,
       8,
-      9,
-      10,
-      11
+      9
     ],
     "col_widths": [
       162,
@@ -102,8 +98,6 @@
       91,
       91,
       71,
-      91,
-      91,
       91,
       91
     ],
