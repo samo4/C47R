@@ -9928,6 +9928,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 43.18 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d38736c6-def4-494d-8a2a-dfb9307ec743")
 		)
@@ -10119,6 +10130,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 113.03 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c1df108a-750f-4606-87ea-6a12169b3dc4")
 		)
@@ -10289,6 +10311,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 149.86 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0b08227b-3474-42ab-92ae-2eb566d2bc0b")
 		)
@@ -10362,6 +10395,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 271.78 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 271.78 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -10571,6 +10615,17 @@
 			)
 		)
 		(property "PN" "CL05B104KO5NNNC"
+			(at 160.02 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 160.02 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -10883,6 +10938,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 16.51 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "mainboard"
 				(path "/9e45a776-7007-48ff-b543-dc98423173b7"
@@ -11101,6 +11167,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 16.51 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "mainboard"
 				(path "/9e45a776-7007-48ff-b543-dc98423173b7"
@@ -11265,6 +11342,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 114.3 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7f9ebc45-3082-4e49-8c54-cc1598804fb4")
 		)
@@ -11410,7 +11498,18 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25105"
+			(at 64.77 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 64.77 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -11580,6 +11679,17 @@
 			)
 		)
 		(property "PN" "CL05B104KO5NNNC"
+			(at 124.46 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 124.46 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -12147,7 +12257,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files no)
 		(dnp yes)
@@ -12264,6 +12374,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 167.64 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 167.64 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12408,6 +12529,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 57.15 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 57.15 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C11702"
 			(at 57.15 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -12587,6 +12730,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 26.67 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "091a0c9c-5e12-46b2-9598-bf812073bb35")
 		)
@@ -12609,7 +12763,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files no)
 		(dnp yes)
@@ -12757,6 +12911,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 245.11 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a12ab188-90b2-4bb8-982f-3d19bc0ec4da")
 		)
@@ -12854,9 +13019,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "4e520c3e-56fd-4bd4-b187-5b4fcaa08095")
 		(property "Reference" "R9"
@@ -12969,6 +13134,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 69.85 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 69.85 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -13303,6 +13479,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 76.2 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bd2ecfb4-20ce-4741-b66f-4e67e978eb19")
 		)
@@ -13513,6 +13700,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 34.29 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 34.29 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C11702"
 			(at 34.29 63.5 90)
 			(hide yes)
 			(show_name no)
@@ -13768,6 +13977,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 26.67 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ec529974-f599-49f9-871f-fedc92f62a81")
 		)
@@ -13928,6 +14148,17 @@
 		)
 		(property "LCSC" ""
 			(at 201.93 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 201.93 31.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14116,6 +14347,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 104.14 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 104.14 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -14370,6 +14612,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 16.51 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "mainboard"
 				(path "/9e45a776-7007-48ff-b543-dc98423173b7"
@@ -14401,7 +14654,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 70.993 160.782 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14412,7 +14665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 69.85 164.338 90)
 			(hide yes)
 			(show_name no)
@@ -14500,6 +14753,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 69.85 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C21189"
+			(at 69.85 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 69.85 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -14953,6 +15228,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 233.68 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 233.68 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -15449,6 +15735,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 127 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b6debec8-8cf4-418c-bbf2-ad1df164a169")
 		)
@@ -15747,6 +16044,28 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 64.77 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C11702"
+			(at 64.77 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e08e0441-ea4f-45fa-a1ff-c8850884e6ce")
 		)
@@ -15895,6 +16214,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 16.51 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "mainboard"
 				(path "/9e45a776-7007-48ff-b543-dc98423173b7"
@@ -15986,10 +16316,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files no)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9438e541-7373-4df2-a774-18d6a497a8ce")
 		(property "Reference" "J7"
@@ -16102,6 +16432,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 269.24 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 269.24 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -16306,6 +16647,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 63.5 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d1161586-387e-422a-a530-5e7b3a92d6e1")
 		)
@@ -16451,7 +16803,18 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25105"
+			(at 69.85 73.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 69.85 73.66 90)
 			(hide yes)
 			(show_name no)
@@ -17080,6 +17443,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 269.24 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "12"
 			(uuid "51b1f8d3-635a-4149-a6e7-90679206c32d")
 		)
@@ -17166,7 +17540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A"
 			(at 45.72 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -17254,6 +17628,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 45.72 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 45.72 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C318884"
 			(at 45.72 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -17424,6 +17820,17 @@
 			)
 		)
 		(property "PN" ""
+			(at 170.18 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 170.18 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -17759,6 +18166,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 101.6 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8895bfbd-e21a-4383-9d2e-fa11930be7b8")
 		)
@@ -17929,6 +18347,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 139.7 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f504176-edbd-4eed-ba4b-d6ae06ed3b11")
 		)
@@ -18001,6 +18430,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x14, script generated"
+			(at 196.85 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 196.85 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -18207,6 +18647,17 @@
 			)
 		)
 		(property "PN" "CL05B104KO5NNNC"
+			(at 127 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 127 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -18677,6 +19128,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 242.57 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "31cdc94b-07e8-4839-a7c5-c5a23a0c1a24")
 		)
@@ -18823,7 +19285,18 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25105"
+			(at 63.5 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 63.5 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -19147,6 +19620,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 40.64 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "7c575e7d-9253-4def-9c15-f9ee3b5f0ca6")
 		)
@@ -19250,9 +19734,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "ed5c23d2-e9d6-49d2-b6c2-b105d7d63c1b")
 		(property "Reference" "R1"
@@ -19365,6 +19849,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 88.9 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 88.9 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -19545,6 +20040,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 139.7 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "18d87d7e-83dd-45ca-ba44-1f5d22d5481a")
 		)
@@ -19594,7 +20100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A"
 			(at 35.56 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -19682,6 +20188,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 40.64 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 40.64 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C318884"
 			(at 40.64 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -19841,6 +20369,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 104.14 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 104.14 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -20264,6 +20803,17 @@
 			)
 		)
 		(property "PN" "CL05B104KO5NNNC"
+			(at 88.9 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 88.9 189.23 0)
 			(hide yes)
 			(show_name no)

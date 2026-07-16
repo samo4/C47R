@@ -3477,6 +3477,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 31.75 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "05c4d83a-2522-446f-88d6-2785264d336f")
 		)
@@ -3800,6 +3811,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 247.65 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aaab0793-2546-4945-895a-236e6ec62269")
 		)
@@ -3959,6 +3981,28 @@
 				)
 			)
 		)
+		(property "LCSC" "C25741"
+			(at 128.27 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 128.27 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f6707ead-b4a4-4e14-b9d0-b336043ed101")
 		)
@@ -4031,6 +4075,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 128.27 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25741"
+			(at 128.27 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 128.27 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -4139,9 +4205,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2f3a33a7-abe4-472f-8670-349bbed3aa6e")
@@ -4192,6 +4258,17 @@
 			)
 		)
 		(property "Description" "Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package"
+			(at 111.76 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 111.76 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4292,6 +4369,17 @@
 			)
 		)
 		(property "LCSC" "C4109"
+			(at 137.16 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 137.16 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -4688,6 +4776,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 54.61 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7f7bf9dc-bcf0-4dd2-ac77-f16376822bcc")
 		)
@@ -4847,6 +4946,17 @@
 			)
 		)
 		(property "PN" "CL05B104KO5NNNC"
+			(at 205.74 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 205.74 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -5247,6 +5357,28 @@
 				)
 			)
 		)
+		(property "LCSC" "C25905"
+			(at 30.48 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 30.48 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "db53c9b8-ceea-4ccf-811b-d55cb3ff2819")
 		)
@@ -5417,6 +5549,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 191.77 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "db7a8682-7d13-4539-89f9-2b6373682cbd")
 		)
@@ -5503,6 +5646,17 @@
 			)
 		)
 		(property "LCSC" "C20917"
+			(at 125.73 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 125.73 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5917,6 +6071,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 40.64 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b6360203-085c-4bc0-895e-d9b8cdc53d99")
 		)
@@ -6087,6 +6252,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 81.28 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9fd31734-8d62-47e4-a89d-4b69b70b0dd8")
 		)
@@ -6168,6 +6344,17 @@
 			)
 		)
 		(property "LCSC" "C4109"
+			(at 93.98 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 93.98 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -6327,6 +6514,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 22.86 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25905"
+			(at 22.86 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 22.86 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6507,6 +6716,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 228.6 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "20f45db3-ba97-4018-8c3a-13b2a38a1519")
 		)
@@ -6602,6 +6822,17 @@
 			)
 		)
 		(property "LCSC" "C2290"
+			(at 137.16 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 137.16 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6914,6 +7145,17 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 30.48 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 30.48 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7269,6 +7511,17 @@
 			)
 		)
 		(property "LCSC" "C2480"
+			(at 54.61 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 54.61 177.8 0)
 			(hide yes)
 			(show_name no)
